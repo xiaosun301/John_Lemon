@@ -1,0 +1,45 @@
+# Unity 核心忽略文件
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/StreamingAssets/aa.meta
+/AssetDatabase3D/
+/AssetDatabase3D.meta
+
+# Unity 包管理
+/Packages/packages-lock.json
+/ProjectSettings/ProjectVersion.txt.meta
+
+# 编辑器配置
+/.vs/
+/.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 构建输出
+/*.apk
+/*.aab
+/*.unitypackage
+/*.exe
+/*.dll
+/*.zip
+
+
+# 系统文件
+.DS_Store
+Thumbs.db
